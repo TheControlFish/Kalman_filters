@@ -3,7 +3,7 @@
 """
 Created on Sat Jun  8 17:51:10 2019
 
-@author: Karim Karimov, Colorado State Univeristy
+@author: Karim Karimov, Colorado State Univeristy.
 """
 
 import numpy as np
